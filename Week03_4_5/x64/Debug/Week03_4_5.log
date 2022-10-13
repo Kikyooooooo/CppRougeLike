@@ -1,0 +1,16 @@
+﻿  Pawn.cpp
+C:\Users\Administrator\Desktop\Week03\Week03_4_5\Pawn.cpp(36,66): warning C4305: “*=”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\Week03\Week03_4_5\Pawn.cpp(79,34): warning C4267: “初始化”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Administrator\Desktop\Week03\Week03_4_5\Pawn.cpp(108,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\Week03\Week03_4_5\Pawn.cpp(118,34): warning C4267: “初始化”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Administrator\Desktop\Week03\Week03_4_5\Pawn.cpp(127,34): warning C4267: “初始化”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Administrator\Desktop\Week03\Week03_4_5\Pawn.cpp(170,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\Week03\Week03_4_5\Pawn.cpp(226,60): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\Week03\Week03_4_5\Pawn.cpp(230,69): warning C4244: “*=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\Week03\Week03_4_5\Pawn.cpp(245,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\Week03\Week03_4_5\Pawn.cpp(273,30): warning C4267: “初始化”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Administrator\Desktop\Week03\Week03_4_5\Pawn.cpp(292,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\Week03\Week03_4_5\Pawn.cpp(325,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\Week03\Week03_4_5\Pawn.cpp(352,30): warning C4267: “初始化”: 从“size_t”转换到“short”，可能丢失数据
+C:\Users\Administrator\Desktop\Week03\Week03_4_5\Pawn.cpp(383,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Week03_4_5.vcxproj -> C:\Users\Administrator\Desktop\Week03\x64\Debug\Week03_4_5.exe

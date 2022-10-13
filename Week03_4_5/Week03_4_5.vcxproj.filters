@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameFrame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Wand.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AI.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Pawn.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Commodify.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Torch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Spear.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Katana.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DizzyProp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BlastProp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerPill.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Recover_small.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Recover_big.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AlmightProp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AntidoteProp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ImpressProp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LessHPAddDamage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="statue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Weapon.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameFrame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Wand.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Pawn.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AllMacro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Commodify.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Torch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Spear.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Katana.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DizzyProp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BlastProp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerPill.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Recover_small.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Recover_big.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AlmightProp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AntidoteProp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ImpressProp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LessHPAddDamage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="statue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
